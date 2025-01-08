@@ -1,1 +1,1 @@
-GitHub WebSite for my Scratch account.
+Github pages website.
